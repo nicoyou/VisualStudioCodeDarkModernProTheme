@@ -1,8 +1,9 @@
 {
   "name": "theme-dark-modern-pro",
-  "displayName": "DarkModernProTheme",
+  "displayName": "Dark Modern Pro Theme",
   "description": "Visual Studio Code 標準の Dark Modern をベースに、よりコードを理解しやすいよう調節したテーマです",
   "version": "1.0.0",
+  "icon": "assets/icon.png",
   "engines": {
     "vscode": "^1.95.0"
   },
