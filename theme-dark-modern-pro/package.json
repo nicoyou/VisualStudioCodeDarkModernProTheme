@@ -1,4 +1,5 @@
 {
+  "publisher": "nicoyou",
   "name": "theme-dark-modern-pro",
   "displayName": "Dark Modern Pro Theme",
   "description": "Visual Studio Code 標準の Dark Modern をベースに、よりコードを理解しやすいよう調節したテーマです",
@@ -18,5 +19,9 @@
         "path": "./themes/dark_modern_pro_color_theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nicoyou/VisualStudioCodeDarkModernProTheme"
   }
 }
